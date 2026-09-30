@@ -18,9 +18,9 @@ Hello im Mizar083. Like the dual/poly star systems star Mizar. 083 because 83 li
 ---
 
 ## 📊 Coding Stats
-[![Mizar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jirasrel&show_icons=true&theme=catppuccin_mocha&show=stars,commits,prs,issues,contribs)](https://github.com/Jirasrel/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jirasrel&layout=compact&theme=catppuccin_mocha&show_icons=true)](https://github.com/Jirasrel/github-readme-stats)
-[![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Jirasrel&theme=catppuccin_mocha&show_icons=true)](https://github.com/Jirasrel/github-readme-stats)
+[![Mizar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mizar083&show_icons=true&theme=catppuccin_mocha&show=stars,commits,prs,issues,contribs)](https://github.com/Mizar083/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mizar083&layout=compact&theme=catppuccin_mocha&show_icons=true)](https://github.com/Mizar083/github-readme-stats)
+[![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Mizar083&theme=catppuccin_mocha&show_icons=true)](https://github.com/Mizar083/github-readme-stats)
 
 ---
 
